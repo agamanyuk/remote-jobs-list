@@ -17,6 +17,7 @@ Many sites aggregate job listing from a variety of sources, it can 'sometimes' b
 
 || Site |   Details | * | API |                                                                                                     
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
+| ❇️  | [Tarta.ai](https://tarta.ai/) - Tarta bot 🥧 monitors remote jobs and match job seekers with the best ones. | Personal remote job assistant | 🌟 |
 | ❇️ | [Workaline](https://workaline.com/) | Jobs board aggregator. |🌟|
 | ❇️ | [RemoteOK](https://remoteok.io/) | Jobs board aggregator. |🌟| [JSON](https://remoteok.io/remote-jobs.json)|
 | ❇️ | [GoRemote](https://goremote.io/) | Jobs board aggregator. |🌟|
@@ -80,6 +81,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Toptal](https://www.toptal.com/) | Agency. |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency |💻| 
+| ❇️ | [Botmakers](https://botmakers.net/) | Marketing automation company |💻| 
 
 
 ### 👩‍🏫 Teaching
